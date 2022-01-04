@@ -1,6 +1,4 @@
-# AppPokemon
-
-# Animals App
+# List of Pokemon
 
 ## 🛠 Technologies
 
